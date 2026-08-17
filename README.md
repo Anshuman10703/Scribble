@@ -1,104 +1,89 @@
-#🎨Scribble
+# 🎨 Scribble
 
-<palign="center">
-<img
-src="scribble.png"
-alt="ScribbleLogo"
-width="260"
-style="background-color:white;padding:20px;border-radius:50%;"
+<p align="center">
 
->
+  <img src="scribble.png" alt="Scribble Logo" width="220">
 
 </p>
 
-<palign="center">
-<strong>Amoderncreativetalentdiscoverylandingpage.</strong>
+<p align="center">
+
+  <strong>Where creativity meets opportunity.</strong>
 
 </p>
 
-<palign="center">
-<ahref="https://scribblle.netlify.app/">
-🌐<strong>LiveDemo</strong>
-</a>
+<p align="center">
+
+  🌐 <a href="https://scribblle.netlify.app/"><strong>Live Demo →</strong></a>
 
 </p>
 
 ---
 
-##✨About
+## ✨ About
 
-**Scribble**isamodernandresponsivecreativetalentdiscoverylandingpageinspiredbyplatformslikeDribbble.
+**Scribble** is a creative talent discovery landing page built to explore modern frontend development through a visually rich experience.
 
-Thewebsiteprovidesavisuallyengagingexperiencefordiscoveringcreativeprofessionals,exploringdesigninspiration,andconnectingwithtalenteddesigners.
+It combines animated galleries, creative cards, video content, responsive layouts, and interactive UI to create a design-focused experience.
+
+> Built as a learning project to practice and improve frontend development skills.
+
+## 🚀 Highlights
+
+- 🎨 Modern, design-focused UI
+
+- ♾️ Infinite horizontal creator gallery
+
+- 🎬 Image & video integration
+
+- ✨ CSS hover animations & transitions
+
+- ❤️ Interactive inspiration cards
+
+- 📱 Responsive across desktop, tablet & mobile
+
+- ⚡ JavaScript DOM manipulation
+
+- 🎯 Interactive hiring-focused sections
+
+## 🛠️ Built With
+
+**HTML5 • CSS3 • JavaScript • Google Fonts • Remix Icons**
+
+## 🧠 What I Learned
+
+- Building responsive layouts from scratch
+
+- Creating CSS animations and transitions
+
+- Working with images and videos
+
+- Structuring reusable UI components
+
+- Handling responsive breakpoints
+
+- Using JavaScript to manipulate the DOM
+
+- Deploying a frontend project with Netlify
+
+- Managing a project using Git & GitHub
+
+## 🌐 Live Demo
+
+**[scribblle.netlify.app](https://scribblle.netlify.app/)**
+
+## 👨‍💻 Author
+
+**Anshuman Singh**
+
+Built with curiosity, creativity, and lots of CSS.
 
 ---
 
-##🚀Features
+## ⚠️ Disclaimer
 
--🎨ModernandminimalUI
--🖼️Animatedcreatorshowcase
--♾️Infinitehorizontalgallery
--🎬Autoplaycreatorvideos
--❤️Interactiveinspirationcards
--✨Smoothhoveranimations
--📱Fullyresponsivedesign
--🎯Hiring-focusedCTAsections
--🔤GoogleFontsintegration
--🎭RemixIconintegration
+This project is created **strictly for educational and learning purposes**.
 
----
+The design and concept are inspired by existing creative talent platforms. **No copyright infringement is intended.** All third-party images, videos, icons, and design references belong to their respective owners.
 
-##🛠️TechStack
-
--HTML5
--CSS3
--JavaScript
--GoogleFonts
--RemixIcons
-
----
-
-##🌐LiveWebsite
-
-###👉[https://scribblle.netlify.app/](https://scribblle.netlify.app/)
-
----
-
-##📸Preview
-
-<palign="center">
-<img
-src="scribble.png"
-alt="ScribbleLogo"
-width="220"
-
->
-
-</p>
-
----
-
-##📂ProjectStructure
-
-```text
-Scribble/
-│
-├──index.html
-├──style.css
-├──responsive.css
-├──scribble.png
-├──README.md
-│
-└──imagescreators/
-├──01.jpg
-├──02.jpg
-├──03.jpg
-├──...
-├──img1.jpg
-├──img2.jpg
-├──...
-├──vid01.mp4
-├──vid02.mp4
-├──vid03.mp4
-└──vid04.mp4
-```
+This project is **not affiliated with or endorsed by Dribbble**.
