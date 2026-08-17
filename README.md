@@ -2,7 +2,17 @@
 
 <p align="center">
 
-  <img src="scribble.png" alt="Scribble Logo" width="220">
+  <img 
+
+    src="scribble.png" 
+
+    alt="Scribble Logo" 
+
+    width="320"
+
+    style="background-color: white; padding: 25px; border-radius: 30px;"
+
+  >
 
 </p>
 
