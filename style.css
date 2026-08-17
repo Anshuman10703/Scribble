@@ -191,7 +191,7 @@ body {
 
   display: flex;
 
-  animation: marquee 190s linear infinite;
+  animation: marquee 100s linear infinite;
 }
 
 @keyframes marquee {
